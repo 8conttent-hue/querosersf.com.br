@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "title": "QUEROSERSF — Bem-vindo à QUEROSERSF",
+    "description": "A casa do seu trabalho, onde a produtividade e a criatividade se encontram."
+  },
+  "hero": {
+    "title": "Bem-vindo à QUEROSERSF",
+    "subtitle": "A casa do seu trabalho, onde a produtividade e a criatividade se encontram.",
+    "btnText": "Descubra nossos serviços",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Serviços",
+    "items": [
+      {
+        "icon": "🏢",
+        "title": "Espaços de Coworking",
+        "desc": "Ambientes projetados para inspirar e aumentar sua produtividade. Venha trabalhar em um espaço colaborativo e inovador."
+      },
+      {
+        "icon": "🤝",
+        "title": "Salas de Reunião",
+        "desc": "Salas equipadas para todas as suas necessidades de reunião, com tecnologia de ponta e conforto."
+      },
+      {
+        "icon": "🎉",
+        "title": "Espaço para Eventos",
+        "desc": "Realize seu evento em um espaço versátil e acolhedor, perfeito para workshops, palestras e networking."
+      },
+      {
+        "icon": "📧",
+        "title": "Serviços de Escritório Virtual",
+        "desc": "Tenha uma presença profissional sem se preocupar com as operações diárias. Gerenciamos tudo para você."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a QUEROSERSF",
+    "desc": "Na QUEROSERSF, acreditamos que um ambiente de trabalho aconchegante e eficiente é fundamental para o sucesso. Nossa equipe está comprometida em oferecer as melhores soluções para que você possa focar no que realmente importa: seu trabalho.",
+    "stats": [
+      {
+        "value": "100%",
+        "label": "Satisfação dos Clientes"
+      },
+      {
+        "value": "50+",
+        "label": "Espaços Disponíveis"
+      },
+      {
+        "value": "10",
+        "label": "Anos de Experiência"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

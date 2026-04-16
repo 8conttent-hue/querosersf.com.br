@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o QUEROSERSF"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Na QUEROSERSF, acreditamos que um ambiente de trabalho aconchegante e eficiente é fundamental para o sucesso. Nossa equipe está comprometida em oferecer as melhores soluções para que você possa focar no que realmente importa: seu trabalho."
+  },
+  "content": "A QUEROSERSF é mais do que um espaço de trabalho; somos uma comunidade que valoriza o crescimento e a colaboração. Estamos sempre em busca de novas maneiras de apoiar nossos clientes na conquista de seus objetivos.",
+  "mission": "Nossa missão é fornecer a você um espaço onde você possa ser produtivo e criativo.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

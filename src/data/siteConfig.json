@@ -1,0 +1,53 @@
+{
+  "name": "QUEROSERSF",
+  "slug": "querosersf.com.br",
+  "description": "A QUEROSERSF é a casa do seu trabalho. Nossa missão é fornecer a você um espaço onde você possa ser produtivo e criativo. Acreditamos que quando você tem um ambiente que suporta sua produtividade, você é capaz de alcançar coisas incríveis. Oferecemos uma variedade de serviços para ajudá-lo a obter o máximo do seu trabalho, incluindo espaços para coworking, salas de reunião e espaço para eventos. Também oferecemos serviços de escritório virtual, que lhe permitem ter uma presença profissional sem ter que se preocupar com as operações do dia-a-dia de um escritório físico. Nossa equipe é dedicada a ajudá-lo a ter sucesso, e estamos sempre procurando novas maneiras de melhorar nossos serviços. Se houver algo que possamos fazer para ajudar a fazer seu trabalho melhor, pode contar com a gente!",
+  "url": "https://querosersf.com.br",
+  "niche": "Negócios e Empreendedorismo",
+  "keywords": "A QUEROSERSF e a casa do seu trabalho Nossa missao e fornecer",
+  "email": "contato@querosersf.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-D",
+    "hero": "Hero-B",
+    "features": "Features-C",
+    "about": "About-G",
+    "posts": "Posts-H",
+    "footer": "Footer-A",
+    "sobre": "Sobre-G",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
